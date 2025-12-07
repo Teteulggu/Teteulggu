@@ -46,8 +46,8 @@ Abaixo estão meus 4 projetos mais populares — separados por categoria.
 ### 🔹 Landing Page de Vendas – *Otimizada para Funil*  
 Landing page focada em conversão máxima: copy estratégica, CTAs otimizadas e micro-interações que aumentam retenção.  
 **Tecnologias:** HTML, CSS, JavaScript  
-- **Repositório:** [COLOQUE_AQUI]  
-- **Preview (deploy):** [COLOQUE_AQUI]
+- **Repositório:** [https://github.com/Teteulggu/Landing-Page-para-convers-o-de-funil]  
+- **Preview (deploy):** [https://landing-page-alt.netlify.app/]
 
 <p align="center">
   <!-- Card do repo (troque USERNAME/REPO pelo real) -->
