@@ -1,7 +1,7 @@
-<h1 align="center">🌙 Teteu Veiga — Frontend Developer</h1>
+<h1 align="center">🌙 Teteu Veiga — Frontend Developer & Discord Bot Developer</h1>
 
 <p align="center">
-  <b>Desenvolvedor Frontend focado em criar interfaces modernas, animações avançadas e experiências web de alto impacto.</b>
+  <b>Desenvolvedor especializado em Frontend moderno e automações avançadas para Discord. Foco total em design premium e eficiência.</b>
 </p>
 
 <p align="center">
@@ -10,56 +10,110 @@
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-- 📌 Desenvolvedor **Frontend**  
-- 🎨 Especialista em **HTML • CSS • JavaScript**  
-- 🧩 Crio **animações avançadas**, microinterações e experiências estilo Apple  
-- 🌐 Foco em **landing pages, design limpo e responsivo**  
-- 🎯 Objetivo: Me tornar um dos melhores Frontenders do Brasil  
-- 🧠 Sempre aprendendo e criando projetos novos  
+- 🎨 Desenvolvedor **Frontend**
+- 🤖 Criador de **Bots Discord avançados**
+- 💻 Trabalho com **HTML, CSS, JavaScript e Node.js**
+- 🎯 Objetivo: me tornar referência em frontend moderno
+- 🧠 Aprendendo e construindo projetos grandes todos os dias
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
-<p align="left">
+### **Frontend**
+<p>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</p>
+
+### **Discord Bots**
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
 ---
 
-## ✨ Minhas especialidades
+# 🌐 Projetos FRONTEND
 
-- Landing pages com design premium  
-- UI moderna estilo Apple  
-- CSS avançado (Glass, Frosted Blur, Neumorphism, Animations)  
-- JavaScript para animações, efeitos e lógica  
-- Estruturação de projetos profissionais  
-- Git e GitHub do jeito que empresas procuram  
+> **Projetos Web e Landing Pages**
 
----
+## 🔹 **1. Moon Community — Landing Page**
+Landing totalmente temática noturna, com animações suaves e design premium.
 
-## 📂 Projetos principais
-
-> Quando tiver seus projetos, substitua os exemplos.
-
-### 🔹 **Nebula 3D Landing**  
-Landing page com background em movimento e partículas JS.  
-**Tecnologias**: HTML, CSS, JS  
-👉 *Em desenvolvimento*
-
-### 🔹 **Moon Community — Site oficial**  
-Site com design dark premium e animações suaves.  
-👉 *Em desenvolvimento*
+**Tecnologias:** HTML, CSS, JavaScript  
+**Destaques:**  
+- Glassmorphism  
+- Animações suaves  
+- Tema dark elegante
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🔹 **2. Nebula 3D Landing (Apple Style)**
+Página com efeitos espaciais, profundidade e estilo premium.
+
+**Tecnologias:** HTML, CSS, JavaScript  
+**Destaques:**  
+- Efeitos 3D  
+- Parallax  
+- UI super limpa
+
+---
+
+## 🔹 **3. Interface Stratos**
+Interface experimental com animações futuristas e design avançado.
+
+**Tecnologias:** HTML, CSS, JS  
+**Destaques:**  
+- Animações complexas  
+- Movimento 3D  
+- Layout dinâmico
+
+---
+
+# 🤖 Projetos DISCORD BOT
+
+> **Bots, automações, sistemas e integrações com painel**
+
+## 🔹 **1. Bot Manager — ThexApps**
+Sistema completo para gerenciamento de bots Discord.
+
+**Tecnologias:** Node.js, Discord.js  
+**Funções:**  
+- Criação e upload de bots via .zip  
+- Logs avançados  
+- Sistema de pagamento semi-automático  
+- Configuração de produtos no painel
+
+---
+
+## 🔹 **2. Thex Shop — Sistema de Vendas**
+Sistema conectado ao Discord para entregas automáticas de produtos digitais.
+
+**Tecnologias:** Node.js, Discord.js, HTML, CSS  
+**Destaques:**  
+- Embeds customizáveis  
+- Dashboard para configuração  
+- Sistema de permissões por e-mail
+
+---
+
+## 🔹 **3. Sistema de Tickets — /gerenciar_ticket**
+Sistema totalmente gerenciado por botões e menus sem necessidade de comandos chatos.
+
+**Tecnologias:** Node.js, Discord.js  
+**Destaques:**  
+- Categoria + Logs + Staff configurável  
+- Campos personalizados  
+- Interface intuitiva
+
+---
+
+# 📊 Estatísticas do GitHub
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -68,13 +122,14 @@ Site com design dark premium e animações suaves.
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 - 💬 Discord: **TeteuVeiga**
-- 📧 Email: colocar quando quiser
+- 🌎 Futuro portfólio: em desenvolvimento
+- 📧 Email profissional: opcional
 
 ---
 
 <p align="center">
-  <b>“Frontend não é só código — é experiência.”</b>
+  <b>“Construo interfaces e sistemas que realmente surpreendem.”</b>
 </p>
